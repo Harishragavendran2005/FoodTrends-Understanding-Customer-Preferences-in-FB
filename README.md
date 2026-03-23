@@ -87,6 +87,23 @@ This dashboard examines the relationship between physical activity and nutrition
 
 ---
 
+## Dataset  
+
+The datasets used in this project are included in this repository for reference and reproducibility.
+
+### Files Included  
+- `datasets/Food_and_Nutrition.csv` – Contains detailed food consumption, nutrition, and lifestyle data  
+- `datasets/nutrition_dataset_10000.xlsx` – Large dataset with nutritional values and health indicators  
+- `datasets/Exact_Breakfast_Dashboard_Data.xlsx` – Dataset used for breakfast analysis dashboard  
+
+### Description  
+- Includes attributes such as calories, protein, fat, carbohydrates, fiber, and sugar  
+- Covers dietary preferences (Omnivore, Vegetarian, Vegan, etc.)  
+- Contains activity levels, BMI, and health condition indicators  
+- Used for building and analyzing all dashboards in this project
+
+---
+
 ## Tools & Technologies  
 - Power BI  
 - Microsoft Excel  
