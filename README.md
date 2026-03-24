@@ -21,6 +21,7 @@ The dashboards are designed to convert raw data into clear, actionable insights 
 ## Dashboard Insights  
 
 ---
+## Milestone 1
 
 ## 1. Analysis of Dietary Preferences and Averages  
 
@@ -38,6 +39,7 @@ This dashboard focuses on identifying dietary patterns and average nutritional i
 - Snack preferences and ratings highlight commonly chosen healthy options  
 
 ---
+## Milestone 2
 
 ## 2. Nutrients and Diseases  
 
@@ -54,6 +56,7 @@ This dashboard explores the relationship between nutrient intake and health cond
 - Calorie distribution shows overall consumption trends across filtered groups  
 
 ---
+## Milestone 3
 
 ## 3. Averages By Breakfast Suggestions  
 
@@ -70,6 +73,7 @@ This dashboard analyzes how breakfast choices affect daily nutritional intake. I
 - Dietary preferences influence breakfast selection patterns  
 
 ---
+## Milestone 4
 
 ## 4. Lifestyle & Nutrition Impact  
 
