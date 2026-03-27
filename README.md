@@ -121,4 +121,5 @@ This project demonstrates how data analytics can be used to understand food habi
 ---
 
 ## Contributors
-HARISH RAGAVENDRAN V | Yoganandha Banavathu | T.Mary kumari  | prajit V | Hiranmayi Mula | VIGNESH N | Vijayalatha P | Adithya Arun
+HARISH RAGAVENDRAN V | YOGANANDHA BANAVATHU | MARY KUMARI T | PRAJIT V | HIRANMAYI MULA | VIGNESH N | VIJAYALATHA P | ADITHYA ARUN
+
