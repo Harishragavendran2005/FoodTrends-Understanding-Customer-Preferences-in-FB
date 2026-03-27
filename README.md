@@ -120,7 +120,12 @@ This project demonstrates how data analytics can be used to understand food habi
 
 ---
 
-## Author  
+## Contributors
 HARISH RAGAVENDRAN V  
-B.E Student  
-Aspiring Data Analyst  
+Yoganandha Banavathu
+T.Mary kumari 
+prajit V
+Hiranmayi Mula
+VIGNESH N
+Vijayalatha P
+Adithya Arun
