@@ -243,37 +243,52 @@ foodtrends-analysis/
 
 ## 👥 Contributors
 
-<table>
+<div align="center">
+
+### 🌟 Meet Our Amazing Team
+
+*This project was brought to life through the collaborative efforts of talented individuals passionate about data analytics and nutrition science.*
+
+</div>
+
+<table align="center">
   <tr>
-    <td align="center">
-      <b>HARISH RAGAVENDRAN V</b>
+    <td align="center" width="200">
+      <b>🎯 HARISH RAGAVENDRAN V</b>
     </td>
-    <td align="center">
-      <b>YOGANANDHA BANAVATHU</b>
+    <td align="center" width="200">
+      <b>🎯 YOGANANDHA BANAVATHU</b>
     </td>
-    <td align="center">
-      <b>MARY KUMARI T</b>
+    <td align="center" width="200">
+      <b>🎯 MARY KUMARI T</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>PRAJIT V</b>
+      <b>🎯 VIGNESH N</b>
+    </td>
     <td align="center">
+      <b>🎯 VARSHITHA SRI KOTAPROLU</b>
+    </td>
+    <td align="center">
+      <b>🎯 DANUSHA TENTU</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>DANUSHA TENTU</b>
+      <b>🎯 NANDHINI</b>
     </td>
-    <td align="center">
-      <b>NANDHINI</b>
-    </td>
-    <td align="center">
-      <b>VARSHITHA SRI KOTAPROLU</b>
+    <td align="center" colspan="2">
+      <!-- Empty cells for alignment -->
     </td>
   </tr>
 </table>
 
+<div align="center">
+
+*Each team member contributed unique expertise in data analysis, visualization design, and nutritional research to make this project a success.*
+
+</div>
 ---
 
 ## 📄 License
