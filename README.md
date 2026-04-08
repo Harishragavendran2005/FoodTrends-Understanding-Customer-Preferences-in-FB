@@ -258,20 +258,15 @@ foodtrends-analysis/
   <tr>
     <td align="center">
       <b>PRAJIT V</b>
-    </td>
     <td align="center">
-      <b>HIRANMAYI MULA</b>
-    </td>
-    <td align="center">
-      <b>VIGNESH N</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>VIJAYALATHA P</b>
+      <b>DANUSHA TENTU</b>
     </td>
     <td align="center">
-      <b>ADITHYA ARUN</b>
+      <b>NANDHINI</b>
     </td>
     <td align="center">
       <b>VARSHITHA SRI KOTAPROLU</b>
