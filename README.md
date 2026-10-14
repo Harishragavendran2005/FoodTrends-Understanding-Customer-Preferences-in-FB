@@ -259,28 +259,6 @@ foodtrends-analysis/
     <td align="center" width="200">
       <b>🎯 YOGANANDHA BANAVATHU</b>
     </td>
-    <td align="center" width="200">
-      <b>🎯 MARY KUMARI T</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🎯 VIGNESH N</b>
-    </td>
-    <td align="center">
-      <b>🎯 VARSHITHA SRI KOTAPROLU</b>
-    </td>
-    <td align="center">
-      <b>🎯 DANUSHA TENTU</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🎯 NANDHINI</b>
-    </td>
-    <td align="center" colspan="2">
-      <!-- Empty cells for alignment -->
-    </td>
   </tr>
 </table>
 
